@@ -97,7 +97,7 @@ header section.wrapper div.middle {
 #spotlight {
   max-width: 100vw;
   max-height: 600px;
-  background: url(/media-quary/media/cropped-bg-1.jpg) no-repeat;
+  background: url(../media/cropped-bg-1.jpg) no-repeat;
   background-size: cover;
   overflow: hidden;
 }
@@ -361,7 +361,7 @@ footer form input {
   border-width: 1px;
   border-color: #ebebeaff;
   border-style: solid;
-  background: url(/media-quary/media/email.png) no-repeat 8px center;
+  background: url(../media/email.png) no-repeat 8px center;
 }
 
 footer form button {
@@ -441,7 +441,7 @@ footer div.bottom ul li {
   #spotlight {
     max-width: 100vw;
     max-height: 600px;
-    background: url(/media-quary/media/cropped-bg.jpg) no-repeat;
+    background: url(../media/cropped-bg.jpg) no-repeat;
     background-size: cover;
     overflow: hidden;
   }
