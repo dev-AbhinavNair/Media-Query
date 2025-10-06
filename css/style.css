@@ -155,6 +155,10 @@ header section.wrapper div.middle {
   flex-wrap: wrap;
   gap: 16px;
   justify-content: center;
+  /* flex-direction: row-reverse;   */
+  /* to reverse the direction in which pictures are shown */
+  
+  /* flex-direction: column-reverse; */
 }
 
 .dog-gallery img {
@@ -397,7 +401,7 @@ footer div.bottom ul li {
 
 /* MEDIA QUERY ----------------------------- */
 
-@media all and (max-width: 576px) {
+@media (max-width: 576px) {
   * {
     max-width: 100vw;
   }
